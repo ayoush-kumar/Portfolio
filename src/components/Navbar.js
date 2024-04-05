@@ -107,7 +107,7 @@ function NavBar() {
 
             {/* Project Repo */}
               <Button
-                href=""
+                href="https://github.com/ayoush-kumar/Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
