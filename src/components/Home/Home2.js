@@ -19,9 +19,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            My name is Ayoush Kumar, and I am a final year student at Punjab Engineering College, Chandigarh, India
+            I am a final year student at Punjab Engineering College, Chandigarh, India
               <br />
-              <br /> I love to explore new technologies and problem solving.
+              <br /> I love to explore new technologies and problem solving with
               <i>
                 <b className="purple"> C++, Javascript and Python. </b>
               </i>
