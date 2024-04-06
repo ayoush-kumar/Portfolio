@@ -7,6 +7,7 @@ import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
 import { VscGame } from "react-icons/vsc";
+import { ImPen } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,
@@ -102,9 +103,17 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+            <Nav.Item>
+              <Nav.Link
+                href=""
+                target="_blank"
+                rel="noreferrer"
+              >
+                <ImPen style={{ marginBottom: "2px" }} /> Blogs
+              </Nav.Link>
+            </Nav.Item>
+
             <Nav.Item className="fork-btn">
-
-
             {/* Project Repo */}
               <Button
                 href="https://github.com/ayoush-kumar/Portfolio"
