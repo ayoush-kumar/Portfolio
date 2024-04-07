@@ -1,7 +1,7 @@
 <h2 align="center">
-  [Portfolio Website] (http://ayoushkumar.netlify.app)
+  [Portfolio Website](http://ayoushkumar.netlify.app)
 </h2>
-
+[Portfolio Website](http://ayoushkumar.netlify.app)
 
 
 ## Getting Started 
